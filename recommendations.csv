@@ -1,0 +1,10 @@
+risk_appetite_input,scheme_name,fund_house,category,risk_grade,sharpe_ratio,return_3yr_pct,expense_ratio_pct
+Low,ICICI Pru Liquid Fund - Regular - Growth,ICICI Prudential MF,Liquid,Low,7.68,7.68,0.74
+Low,Kotak Liquid Fund - Regular - Growth,Kotak Mahindra MF,Liquid,Low,6.18,6.18,0.6
+Low,ABSL Liquid Fund - Regular - Growth,Aditya Birla Sun Life MF,Liquid,Low,5.14,5.14,0.79
+Moderate,HDFC Top 100 Fund - Regular Plan - Growth,HDFC Mutual Fund,Large Cap,Moderate,1.06,14.84,1.55
+Moderate,Mirae Asset Large Cap Fund - Regular - Growth,Mirae Asset MF,Large Cap,Moderate,1.06,14.81,1.46
+Moderate,ICICI Pru Bluechip Fund - Direct - Growth,ICICI Prudential MF,Large Cap,Moderate,1.03,14.41,0.8
+High,Kotak Emerging Equity Fund - Regular - Growth,Kotak Mahindra MF,Mid Cap,High,0.96,18.23,1.56
+High,ICICI Pru Midcap Fund - Regular - Growth,ICICI Prudential MF,Mid Cap,High,0.95,18.08,1.36
+High,SBI Small Cap Fund - Regular Plan - Growth,SBI Mutual Fund,Small Cap,Very High,0.94,23.39,1.43
